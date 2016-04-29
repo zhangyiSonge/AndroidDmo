@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_types">
+        <item>全部分类</item>
+        <item>电影</item>
+        <item>美食</item>
+        <item>摄影写真</item>
+        <item>酒店</item>
+        <item>休闲娱乐</item>
+        <item>汽车服务</item>
+        <item>生活服务</item>
+        <item>生活服务2</item>
+        <item>生活服务3</item>
+    </string-array>
+    <string-array name="type_hotel">
+        <item>全部</item>
+        <item>经济型酒店</item>
+        <item>豪华酒店</item>
+        <item>青年旅社</item>
+        <item>客栈</item>
+        <item>主题酒店</item>
+    </string-array>
+</resources>
